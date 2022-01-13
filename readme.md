@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3>Sobre mim </h3>
 
 - 🤔 &nbsp; Desenvolvedora Web em construção, apaixonada por tecnologia, ciência e sempre pronta pra aprender coisas novas.
 - 🎓 &nbsp; Formada em Comunicação Digital, estudando "Desenvolvimento Web Fullstack" na <a href="https://app.becas-santander.com/pt/program/bolsas-santander-tecnologia-santander-coders-web-full-stack-2021">Santander Coders/ Let's Code</a>.
